@@ -1,0 +1,16 @@
+{
+    "name": "remix-meetup-2023-09",
+    "private": true,
+    "scripts": {
+        "dev": "slidev --open",
+        "build": "slidev build",
+        "export": "slidev export"
+    },
+    "dependencies": {
+        "@slidev/cli": "^0.43.0",
+        "@slidev/theme-default": "^0.21.2"
+    },
+    "devDependencies": {
+        "@iconify-json/logos": "^1.1.35"
+    }
+}

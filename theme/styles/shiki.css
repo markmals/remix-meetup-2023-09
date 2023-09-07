@@ -1,0 +1,11 @@
+.shiki-light {
+    background: theme("colors.gray.50") !important;
+}
+
+.shiki-dark {
+    background: theme("colors.zinc.900") !important;
+}
+
+.slidev-layout code {
+    font-family: "JetBrains Mono", "Input", monospace !important; /* "JetBrains Mono" */
+}
