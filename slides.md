@@ -36,7 +36,7 @@ I'm a UX designer and developer who makes exploratory prototypes with code. My p
 
 <img src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/github.svg" alt="github-logo" class="w-10 h-10">
 
-https://raw.githubusercontent.com/markmals
+https://github.com/markmals
 
 </div>
 
@@ -2375,7 +2375,7 @@ export class Tasks implements View {
 
 <img src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/hibiscus_3d.png" alt="webstd-ui-logo" class="w-10 h-10">
 
-https://raw.githubusercontent.com/webstd-ui
+https://github.com/webstd-ui
 
 </div>
 
