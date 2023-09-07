@@ -45,7 +45,7 @@ jobs:
                   npm install
             - name: Build Slides
               run: |
-                  npm run build -- --base /${{ github.event.repository.name }}/
+                  npm run build
                   cp dist/index.html dist/404.html
             - name: Upload artifact
               uses: actions/upload-pages-artifact@v2

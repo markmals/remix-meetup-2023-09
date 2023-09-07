@@ -1,6 +1,6 @@
 ---
 theme: ./theme
-background: /hibiscus-bg.jpg
+background: https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/hibiscus-bg.jpg
 highlighter: shiki
 lineNumbers: false
 transition: slide-left
@@ -17,7 +17,7 @@ title: How to Create Your Own JavaScript Framework
 
 ---
 layout: image-left
-image: /profile.jpg
+image: https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/profile.jpg
 ---
 
 # Hi! I'm Mark 👋
@@ -26,7 +26,7 @@ I'm a UX designer and developer who makes exploratory prototypes with code. My p
 
 <div class="flex flex-row items-center gap-3">
 
-<img src="/mastodon.svg" alt="mastodon-logo" class="w-10 h-10">
+<img src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/mastodon.svg" alt="mastodon-logo" class="w-10 h-10">
 
 @markmalstrom@universeodon.com
 
@@ -34,9 +34,9 @@ I'm a UX designer and developer who makes exploratory prototypes with code. My p
 
 <div class="flex flex-row items-center gap-3">
 
-<img src="/github.svg" alt="github-logo" class="w-10 h-10">
+<img src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/github.svg" alt="github-logo" class="w-10 h-10">
 
-https://github.com/markmals
+https://raw.githubusercontent.com/markmals
 
 </div>
 
@@ -2151,7 +2151,7 @@ Fundamental features for good single-page routing
 
 <div class="flex justify-center h-[96%]">
     <video autoplay="true" loop="true">
-        <source src="/spa-nav.mov" type="video/mp4" />
+        <source src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/spa-nav.mov" type="video/mp4" />
     </video>
 </div>
 
@@ -2162,7 +2162,7 @@ transition: none
 # Nested Routes
 
 <div class="flex justify-center h-[96%]">
-    <img class="object-contain" src="/nested-routes-root-1.png">
+    <img class="object-contain" src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/nested-routes-root-1.png">
 </div>
 
 ---
@@ -2172,7 +2172,7 @@ transition: none
 # Nested Routes
 
 <div class="flex justify-center h-[96%]">
-    <img class="object-contain" src="/nested-routes-sales-2.png">
+    <img class="object-contain" src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/nested-routes-sales-2.png">
 </div>
 
 ---
@@ -2182,7 +2182,7 @@ transition: none
 # Nested Routes
 
 <div class="flex justify-center h-[96%]">
-    <img class="object-contain" src="/nested-routes-invoices-3.png">
+    <img class="object-contain" src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/nested-routes-invoices-3.png">
 </div>
 
 ---
@@ -2192,7 +2192,7 @@ transition: none
 # Nested Routes
 
 <div class="flex justify-center h-[96%]">
-    <img class="object-contain" src="/nested-routes-invoice-4.png">
+    <img class="object-contain" src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/nested-routes-invoice-4.png">
 </div>
 
 ---
@@ -2200,7 +2200,7 @@ transition: none
 # Parallel Data Loading
 
 <video autoplay="true" loop="true">
-  <source src="/parallel-loading.mov" type="video/mp4" />
+  <source src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/parallel-loading.mov" type="video/mp4" />
 </video>
 
 ---
@@ -2208,7 +2208,7 @@ transition: none
 # Form Actions & Invalidation
 
 <video autoplay="true" loop="true">
-  <source src="/form-actions.mov" type="video/mp4" />
+  <source src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/form-actions.mov" type="video/mp4" />
 </video>
 
 ---
@@ -2339,7 +2339,7 @@ export class Tasks implements View {
 # WebStd UI
 
 <div class="flex justify-center items-center">
-    <img class="object-contain h-[50%]" src="/hibiscus_3d.png">
+    <img class="object-contain h-[50%]" src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/hibiscus_3d.png">
 </div>
 
 
@@ -2373,9 +2373,9 @@ export class Tasks implements View {
 
 <div class="flex flex-row items-center gap-3">
 
-<img src="/hibiscus_3d.png" alt="webstd-ui-logo" class="w-10 h-10">
+<img src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/hibiscus_3d.png" alt="webstd-ui-logo" class="w-10 h-10">
 
-https://github.com/webstd-ui
+https://raw.githubusercontent.com/webstd-ui
 
 </div>
 
@@ -2405,5 +2405,5 @@ https://github.com/webstd-ui
 # Questions?
 
 <div class="flex h-full justify-center items-center">
-    <img src="/any-questions.gif" class="h-full object-cover pb-10">
+    <img src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/any-questions.gif" class="h-full object-cover pb-10">
 </div>
