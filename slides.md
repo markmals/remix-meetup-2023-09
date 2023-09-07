@@ -28,7 +28,7 @@ I'm a UX designer and developer who makes exploratory prototypes with code. My p
 
 <img src="https://raw.githubusercontent.com/markmals/remix-meetup-2023-09/main/public/mastodon.svg" alt="mastodon-logo" class="w-10 h-10">
 
-@markmalstrom@universeodon.com
+[@markmalstrom@universeodon.com](https://universeodon.com/@markmalstrom)
 
 </div>
 
