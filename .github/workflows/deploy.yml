@@ -7,11 +7,11 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            - uses: actions/checkout@v2
-            - uses: actions/setup-node@v2.1.5
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v3.8.1
               with:
                   node-version: "latest"
-            - uses: actions/cache@v2
+            - uses: actions/cache@v3
               with:
                   path: "**/node_modules"
                   key: ${{ runner.os }}-modules-${{ hashFiles('**/package-lock.json') }}
@@ -23,7 +23,7 @@ jobs:
                   npm run build
                   cp dist/index.html dist/404.html
             - name: Deploy pages
-              uses: crazy-max/ghaction-github-pages@v2.3.0
+              uses: crazy-max/ghaction-github-pages@v3.2.0
               with:
                   build_dir: dist
               env:
