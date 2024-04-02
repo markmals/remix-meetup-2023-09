@@ -4,11 +4,12 @@
     "scripts": {
         "dev": "slidev --open",
         "build": "slidev build",
+        "build-local": "slidev build --base /remix-meetup-2023-09",
         "export": "slidev export"
     },
     "dependencies": {
-        "@slidev/cli": "^0.43.0",
-        "@slidev/theme-default": "^0.21.2"
+        "@slidev/cli": "^0.48.8",
+        "@slidev/theme-default": "^0.25.0"
     },
     "devDependencies": {
         "@iconify-json/logos": "^1.1.35"
