@@ -9,3 +9,11 @@ Start the presentation locally:
 ```sh
 npm run dev
 ```
+
+You can view an online version of the presentation at:
+
+https://markmals.github.io/remix-meetup-2023-09
+
+And the version with the presenter's notes here:
+
+https://markmals.github.io/remix-meetup-2023-09/presenter

@@ -1,6 +1,6 @@
 ---
 theme: ./theme
-background: /hibiscus-bg.jpg
+background: hibiscus-bg.jpg
 highlighter: shiki
 lineNumbers: false
 transition: slide-left
@@ -17,7 +17,7 @@ title: How to Create Your Own JavaScript Framework
 
 ---
 layout: image-left
-image: /profile.jpg
+image: profile.jpg
 ---
 
 # Hi! I'm Mark 👋
